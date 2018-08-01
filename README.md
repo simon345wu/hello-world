@@ -1,2 +1,4 @@
 # hello-world
-the first git project for me.  Practice only
+The first git project for me.  Practice only
+
+This project is for pratice Git by simon wu.
